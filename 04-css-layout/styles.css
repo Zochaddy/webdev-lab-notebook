@@ -209,7 +209,7 @@ h1 {
       "footer  footer  footer";
   }
 
-  .grid-area-container .grid-item {
+  grid-area-container .grid-item {
     text-align: left;
     vertical-align: top;
   }
